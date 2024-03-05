@@ -1,0 +1,6 @@
+fastxtend
+fastai
+bitsandbytes
+torch
+pandas
+numpy
